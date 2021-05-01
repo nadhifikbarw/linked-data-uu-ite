@@ -5,17 +5,15 @@
 @prefix wikidata: <http://www.wikidata.org/wiki/> .
 @prefix wikisource: <http://id.wikisource.org/wiki/> .
 
-uuite:sby a schema:Person
-    schema:name "Dr. H. Susilo Bambang Yudhoyono"
-    schema:nationality dbr:Indonesia
-    owl:sameAs dbr:Susilo_Bambang_Yudhoyono
+uuite:sby a schema:Person;
+    schema:name "Dr. H. Susilo Bambang Yudhoyono" ;
+    owl:sameAs dbr:Susilo_Bambang_Yudhoyono.
 
-uuite:jokowi a schema:Person
-    schema:name "Joko Widodo"
-    schema:nationality dbr:Indonesia
-    owl:sameAs dbr:Joko_Widodo
+uuite:jokowi a schema:Person;
+    schema:name "Joko Widodo";
+    owl:sameAs dbr:Joko_Widodo.
 
-uuite:2008 a schema:Legislation
+uuite:2008 a schema:Legislation;
     schema:legislationDate "2008-04-21"^schema:Date ;
     schema:legislationLegalForce schema:PartiallyInForce ;
     schema:legislationPassedBy uuite:sby ;
@@ -23,33 +21,33 @@ uuite:2008 a schema:Legislation
     schema:legislationIdentifier "UU No 11 Tahun 2008" ;
     owl:sameAs wikidata:Q25453508, wikisource:Undang-Undang_Republik_Indonesia_Nomor_11_Tahun_2008.
 
-uuite:2016 a schema:Legislation
-    schema:legislationDate "2016-11-25"^schema:Date
-    schema:legislationLegalForce schema:InForce
-    schema:legislationChanges uuite:2008
-    schema:legislationPassedBy uuite:jokowi
-    schema:legislationType "Undang Undang"
-    schema:legislationIdentifier "UU No 19 Tahun 2016"
-    owl:sameAs wikisource:Undang-Undang_Republik_Indonesia_Nomor_19_Tahun_2016
+uuite:2016 a schema:Legislation;
+    schema:legislationDate "2016-11-25"^schema:Date;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationChanges uuite:2008;
+    schema:legislationPassedBy uuite:jokowi;
+    schema:legislationType "Undang Undang";
+    schema:legislationIdentifier "UU No 19 Tahun 2016";
+    owl:sameAs wikisource:Undang-Undang_Republik_Indonesia_Nomor_19_Tahun_2016 .
 
-uuite:pasalI2016 a schema:Legislation
-    schema:legislationLegalForce schema:InForce
-    schema:legislationType "Pasal"
-    schema:legislationIdentifier "UU No 19 Tahun 2016 Pasal I"
-    schema:isPartOf uuite:2016
+uuite:pasalI2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 19 Tahun 2016 Pasal I";
+    schema:isPartOf uuite:2016.
 
-uuite:ayat1pasalI2016 a schema:Legislation
-    schema:legislationLegalForce schema:InForce
-    schema:legislationType "Ayat"
-    schema:legislationIdentifier "UU No 19 Tahun 2016 Pasal I Ayat 1"
-    schema:isPartOf uuite:pasalI2016
-    schema:text "Beberapa ketentuan dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4843) diubah sebagai berikut: "
+uuite:ayat1pasalI2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 19 Tahun 2016 Pasal I Ayat 1";
+    schema:isPartOf uuite:pasalI2016;
+    schema:text "Beberapa ketentuan dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4843) diubah sebagai berikut: ".
 
-uuite:sub1ayat1pasalI2016 a schema:Legislation
-    schema:legislationLegalForce schema:InForce
-    schema:legislationType "Subayat"
-    schema:isPartOf uuite:ayat1pasalI2016
-    schema:position 1
+uuite:sub1ayat1pasalI2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Subayat";
+    schema:isPartOf uuite:ayat1pasalI2016;
+    schema:position 1;
     schema:text "1. Di antara angka 6 dan angka 7 Pasal 1 disisipkan 1 (satu) angka, yakni angka 6a sehingga Pasal 1 berbunyi sebagai berikut:
 
 	Pasal 1
@@ -80,18 +78,18 @@ uuite:sub1ayat1pasalI2016 a schema:Legislation
 	22. Badan Usaha adalah perusahaan perseorangan atau perusahaan persekutuan, baik yang berbadan hukum maupun yang tidak berbadan hukum.
 	23. Pemerintah adalah Menteri atau pejabat lainnya yang ditunjuk oleh Presiden." .
 
-uuite:sub2ayat1pasalI2016 a schema:Legislation
-    schema:legislationLegalForce schema:InForce
-    schema:legislationType "Subayat"
-    schema:isPartOf uuite:ayat1pasalI2016
-    schema:position 2
+uuite:sub2ayat1pasalI2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Subayat";
+    schema:isPartOf uuite:ayat1pasalI2016;
+    schema:position 2;
     schema:text "2. Ketentuan Pasal 5 tetap dengan perubahan penjelasan ayat (1) dan ayat (2) sehingga penjelasan Pasal 5 menjadi sebagaimana ditetapkan dalam penjelasan pasal demi pasal Undang-Undang ini." .
 
-uuite:sub3ayat1pasalI2016 a schema:Legislation
-    schema:legislationLegalForce schema:InForce
-    schema:legislationType "Subayat"
-    schema:isPartOf uuite:ayat1pasalI2016
-    schema:position 3
+uuite:sub3ayat1pasalI2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Subayat";
+    schema:isPartOf uuite:ayat1pasalI2016;
+    schema:position 3;
     schema:text "3. Ketentuan Pasal 26 ditambah 3 (tiga) ayat, yakni ayat (3), ayat (4), dan ayat (5) sehingga Pasal 26 berbunyi sebagai berikut:
 
 	    Pasal 26
@@ -102,18 +100,18 @@ uuite:sub3ayat1pasalI2016 a schema:Legislation
 	    4. Setiap Penyelenggara Sistem Elektronik wajib menyediakan mekanisme penghapusan Informasi Elektronik dan/atau Dokumen Elektronik yang sudah tidak relevan sesuai dengan ketentuan peraturan perundang-undangan.
 	    5. Ketentuan mengenai tata cara penghapusan Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud pada ayat (3) dan ayat (4) diatur dalam peraturan pemerintah." .
 
-uuite:sub4ayat1pasalI2016 a schema:Legislation
-    schema:legislationLegalForce schema:InForce
-    schema:legislationType "Subayat"
-    schema:isPartOf uuite:ayat1pasalI2016
-    schema:position 4
+uuite:sub4ayat1pasalI2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Subayat";
+    schema:isPartOf uuite:ayat1pasalI2016;
+    schema:position 4;
     schema:text "Ketentuan Pasal 27 tetap dengan perubahan penjelasan ayat (1), ayat (3), dan ayat (4) sehingga penjelasan Pasal 27 menjadi sebagaimana ditetapkan dalam penjelasan pasal demi pasal Undang-Undang ini." .
 
-uuite:sub5ayat1pasalI2016 a schema:Legislation
-    schema:legislationLegalForce schema:InForce
-    schema:legislationType "Subayat"
-    schema:isPartOf uuite:ayat1pasalI2016
-    schema:position 5
+uuite:sub5ayat1pasalI2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Subayat";
+    schema:isPartOf uuite:ayat1pasalI2016;
+    schema:position 5;
     schema:text "5.Ketentuan ayat (3) dan ayat (4) Pasal 31 diubah sehingga Pasal 31 berbunyi sebagai berikut:
 
 	Pasal 31
@@ -123,11 +121,11 @@ uuite:sub5ayat1pasalI2016 a schema:Legislation
 	3. Ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak berlaku terhadap intersepsi atau penyadapan yang dilakukan dalam rangka penegakan hukum atas permintaan kepolisian, kejaksaan, atau institusi lainnya yang kewenangannya ditetapkan berdasarkan undang-undang.
 	4. Ketentuan lebih lanjut mengenai tata cara intersepsi sebagaimana dimaksud pada ayat (3) diatur dengan undang-undang." .
 
-uuite:sub6ayat1pasalI2016 a schema:Legislation
-    schema:legislationLegalForce schema:InForce
-    schema:legislationType "Subayat"
-    schema:isPartOf uuite:ayat1pasalI2016
-    schema:position 6
+uuite:sub6ayat1pasalI2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Subayat";
+    schema:isPartOf uuite:ayat1pasalI2016;
+    schema:position 6;
     schema:text "6.Di antara ayat (2) dan ayat (3) Pasal 40 disisipkan 2 (dua) ayat, yakni ayat (2a) dan ayat (2b); ketentuan ayat (6) Pasal 40 diubah; serta penjelasan ayat (1) Pasal 40 diubah sehingga Pasal 40 berbunyi sebagai berikut:
 
 	Pasal 40
@@ -139,13 +137,13 @@ uuite:sub6ayat1pasalI2016 a schema:Legislation
 	3. Pemerintah menetapkan instansi atau institusi yang memiliki data elektronik strategis yang wajib dilindungi.
 	4. Instansi atau institusi sebagaimana dimaksud pada ayat (3) harus membuat Dokumen Elektronik dan rekam cadang elektroniknya serta menghubungkannya ke pusat data tertentu untuk kepentingan pengamanan data.
 	5. Instansi atau institusi lain selain diatur pada ayat (3) membuat Dokumen Elektronik dan rekam cadang elektroniknya sesuai dengan keperluan perlindungan data yang dimilikinya.
-	6. Ketentuan lebih lanjut mengenai peran Pemerintah sebagaimana dimaksud pada ayat (1), ayat (2), ayat (2a), ayat (2b), dan ayat (3) diatur dalam peraturan pemerintah."
+	6. Ketentuan lebih lanjut mengenai peran Pemerintah sebagaimana dimaksud pada ayat (1), ayat (2), ayat (2a), ayat (2b), dan ayat (3) diatur dalam peraturan pemerintah." .
 
-uuite:sub7ayat1pasalI2016 a schema:Legislation
-    schema:legislationLegalForce schema:InForce
-    schema:legislationType "Subayat"
-    schema:isPartOf uuite:ayat1pasalI2016
-    schema:position 7
+uuite:sub7ayat1pasalI2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Subayat";
+    schema:isPartOf uuite:ayat1pasalI2016;
+    schema:position 7;
     schema:text "7. Ketentuan ayat (2), ayat (3), ayat (5), ayat (6), ayat (7), dan ayat (8) Pasal 43 diubah; di antara ayat (7) dan ayat (8) Pasal 43 disisipkan 1 (satu) ayat, yakni ayat (7a); serta penjelasan ayat (1) Pasal 43 diubah sehingga Pasal 43 berbunyi sebagai berikut:
 
 	Pasal 43
@@ -169,13 +167,13 @@ uuite:sub7ayat1pasalI2016 a schema:Legislation
 	6. Penangkapan dan penahanan terhadap pelaku tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik dilakukan sesuai dengan ketentuan hukum acara pidana.
 	7. Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (1) dalam melaksanakan tugasnya memberitahukan dimulainya penyidikan kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia.
 	7a. Dalam hal penyidikan sudah selesai, Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (1) menyampaikan hasil penyidikannya kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia.
-	8. Dalam rangka mengungkap tindak pidana Informasi Elektronik dan Transaksi Elektronik, penyidik dapat berkerja sama dengan penyidik negara lain untuk berbagi informasi dan alat bukti sesuai dengan ketentuan peraturan perundang-undangan."
+	8. Dalam rangka mengungkap tindak pidana Informasi Elektronik dan Transaksi Elektronik, penyidik dapat berkerja sama dengan penyidik negara lain untuk berbagi informasi dan alat bukti sesuai dengan ketentuan peraturan perundang-undangan.".
 
-uuite:sub8ayat1pasalI2016 a schema:Legislation
-    schema:legislationLegalForce schema:InForce
-    schema:legislationType "Subayat"
-    schema:isPartOf uuite:ayat1pasalI2016
-    schema:position 8
+uuite:sub8ayat1pasalI2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Subayat";
+    schema:isPartOf uuite:ayat1pasalI2016;
+    schema:position 8;
     schema:text "8. Ketentuan Pasal 45 diubah serta di antara Pasal 45 dan Pasal 46 disisipkan 2 (dua) pasal, yakni Pasal 45A dan Pasal 45B sehingga berbunyi sebagai berikut:
 
 	Pasal 45
@@ -193,4 +191,17 @@ uuite:sub8ayat1pasalI2016 a schema:Legislation
 
 	Pasal 45B
 
-	Setiap Orang yang dengan sengaja dan tanpa hak mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik yang berisi ancaman kekerasan atau menakut-nakuti yang ditujukan secara pribadi sebagaimana dimaksud dalam Pasal 29 dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau denda paling banyak Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah)."
+	Setiap Orang yang dengan sengaja dan tanpa hak mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik yang berisi ancaman kekerasan atau menakut-nakuti yang ditujukan secara pribadi sebagaimana dimaksud dalam Pasal 29 dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau denda paling banyak Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah).".
+
+uuite:pasalII2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 19 Tahun 2016 Pasal II";
+    schema:isPartOf uuite:2016.
+
+uuite:ayat1pasalII2016 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 19 Tahun 2016 Pasal II Ayat 1";
+    schema:isPartOf uuite:pasalI2016;
+    schema:text "Undang-Undang ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia".
