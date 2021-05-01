@@ -9,6 +9,11 @@ uuite:sby a schema:Person
     schema:nationality dbr:Indonesia
     owl:sameAs dbr:Susilo_Bambang_Yudhoyono
 
+uuite:jokowi a schema:Person
+    schema:name "Joko Widodo"
+    schema:nationality dbr:Indonesia
+    owl:sameAs dbr:Joko_Widodo
+
 uuite:2008 a schema:Legislation
     schema:legislationDate "2008-04-21"^schema:Date
     schema:legislationLegalForce schema:PartiallyInForce
