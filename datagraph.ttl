@@ -14,7 +14,7 @@ uuite:jokowi a schema:Person;
     owl:sameAs dbr:Joko_Widodo.
 
 uuite:2008 a schema:Legislation;
-    schema:legislationDate "2008-04-21"^schema:Date ;
+    schema:legislationDate "2008-04-21"^^schema:Date ;
     schema:legislationLegalForce schema:PartiallyInForce ;
     schema:legislationPassedBy uuite:sby ;
     schema:legislationType "Undang Undang" ;
@@ -22,7 +22,7 @@ uuite:2008 a schema:Legislation;
     owl:sameAs wikidata:Q25453508, wikisource:Undang-Undang_Republik_Indonesia_Nomor_11_Tahun_2008.
 
 uuite:2016 a schema:Legislation;
-    schema:legislationDate "2016-11-25"^schema:Date;
+    schema:legislationDate "2016-11-25"^^schema:Date;
     schema:legislationLegalForce schema:InForce;
     schema:legislationChanges uuite:2008;
     schema:legislationPassedBy uuite:jokowi;
