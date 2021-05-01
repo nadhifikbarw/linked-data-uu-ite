@@ -97,6 +97,27 @@ uuite:sub3ayat1pasalI2016 a schema:Legislation
     3. Setiap Penyelenggara Sistem Elektronik wajib menghapus Informasi Elektronik dan/atau Dokumen Elektronik yang tidak relevan yang berada di bawah kendalinya atas permintaan Orang yang bersangkutan berdasarkan penetapan pengadilan.
     4. Setiap Penyelenggara Sistem Elektronik wajib menyediakan mekanisme penghapusan Informasi Elektronik dan/atau Dokumen Elektronik yang sudah tidak relevan sesuai dengan ketentuan peraturan perundang-undangan.
     5. Ketentuan mengenai tata cara penghapusan Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud pada ayat (3) dan ayat (4) diatur dalam peraturan pemerintah." .
+
+uuite:sub4ayat1pasalI2016 a schema:Legislation
+    schema:legislationLegalForce schema:InForce
+    schema:legislationType "Subayat"
+    schema:isPartOf uuite:ayat1pasalI2016
+    schema:position 4
+    schema:text "Ketentuan Pasal 27 tetap dengan perubahan penjelasan ayat (1), ayat (3), dan ayat (4) sehingga penjelasan Pasal 27 menjadi sebagaimana ditetapkan dalam penjelasan pasal demi pasal Undang-Undang ini." .
+
+uuite:sub5ayat1pasalI2016 a schema:Legislation
+    schema:legislationLegalForce schema:InForce
+    schema:legislationType "Subayat"
+    schema:isPartOf uuite:ayat1pasalI2016
+    schema:position 5
+    schema:text "5.Ketentuan ayat (3) dan ayat (4) Pasal 31 diubah sehingga Pasal 31 berbunyi sebagai berikut:
+    Pasal 31
+    1. Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum melakukan intersepsi atau penyadapan atas Informasi Elektronik dan/atau Dokumen Elektronik dalam suatu Komputer dan/atau Sistem Elektronik tertentu milik Orang lain.
+    2.Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum melakukan intersepsi atas transmisi Informasi Elektronik dan/atau Dokumen Elektronik yang tidak bersifat publik dari, ke, dan di dalam suatu Komputer dan/atau Sistem Elektronik tertentu milik Orang lain, baik yang tidak menyebabkan perubahan apa pun maupun yang menyebabkan adanya perubahan, penghilangan, dan/atau penghentian Informasi Elektronik dan/atau Dokumen Elektronik yang sedang ditransmisikan.
+    3. Ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak berlaku terhadap intersepsi atau penyadapan yang dilakukan dalam rangka penegakan hukum atas permintaan kepolisian, kejaksaan, atau institusi lainnya yang kewenangannya ditetapkan berdasarkan undang-undang.
+    4. Ketentuan lebih lanjut mengenai tata cara intersepsi sebagaimana dimaksud pada ayat (3) diatur dengan undang-undang." .
+
+
     
 
 
