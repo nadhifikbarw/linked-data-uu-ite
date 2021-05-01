@@ -4,14 +4,12 @@
 @prefix dbr: <http://dbpedia.org/resource/> .
 @prefix wikidata: <https://www.wikidata.org/wiki/> .
 
-uuite:sby
-    a schema:Person
+uuite:sby a schema:Person
     schema:name "Dr. H. Susilo Bambang Yudhoyono"
     schema:nationality dbr:Indonesia
     owl:sameAs dbr:Susilo_Bambang_Yudhoyono
 
-uuite:2008
-    a schema:Legislation
+uuite:2008 a schema:Legislation
     schema:legislationDate "2008-04-21"^schema:Date
     schema:legislationLegalForce schema:PartiallyInForce
     schema:legislationPassedBy uuite:sby
