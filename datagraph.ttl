@@ -205,3 +205,493 @@ uuite:ayat1pasalII2016 a schema:Legislation;
     schema:legislationIdentifier "UU No 19 Tahun 2016 Pasal II Ayat 1";
     schema:isPartOf uuite:pasalI2016;
     schema:text "Undang-Undang ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia".
+
+uuite:pasal12008 a schema:Legislation;
+    schema:legislationLegalForce schema:NotInForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 1";
+    schema:isPartOf uuite:2008.
+	
+uuite:ayat1pasal12008 a schema:Legislation;
+    schema:legislationLegalForce schema:NotInForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 1 Ayat 1";
+    schema:isPartOf uuite:pasal12008;
+    schema:text "Dalam Undang-Undang ini yang dimaksud dengan:
+		1. Informasi Elektronik adalah satu atau sekumpulan data elektronik, termasuk tetapi tidak terbatas pada tulisan, suara, gambar, peta, rancangan, foto, electronic data interchange (EDI), surat elektronik (electronic mail), telegram, teleks, telecopy atau sejenisnya, huruf, tanda, angka, Kode Akses, simbol, atau perforasi yang telah diolah yang memiliki arti atau dapat dipahami oleh orang yang mampu memahaminya.
+		2. Transaksi Elektronik adalah perbuatan hukum yang dilakukan dengan menggunakan Komputer, jaringan Komputer, dan/atau media elektronik lainnya.
+		3. Teknologi Informasi adalah suatu teknik untuk mengumpulkan, menyiapkan, menyimpan, memproses, mengumumkan, menganalisis, dan/atau menyebarkan informasi.
+		4. Dokumen Elektronik adalah setiap Informasi Elektronik yang dibuat, diteruskan, dikirimkan, diterima, atau disimpan dalam bentuk analog, digital, elektromagnetik, optikal, atau sejenisnya, yang dapat dilihat, ditampilkan, dan/atau didengar melalui Komputer atau Sistem Elektronik, termasuk tetapi tidak terbatas pada tulisan, suara, gambar, peta, rancangan, foto atau sejenisnya, huruf, tanda, angka, Kode Akses, simbol atau perforasi yang memiliki makan atau arti atau dapat dipahami oleh orang yang mampu memahaminya.
+		5. Sistem Elektronik adalah serangkaian perangkat dan prosedur elektronik yang berfungsi mempersiapkan, mengumpulkan, mengolah, menganalisis, menyimpan, menampilkan, mengumumkan, mengirimkan, dan/atau menyebarkan Informasi Elektronik.
+		6. Penyelenggaraan Sistem Elektronik adalah pemanfaatan Sistem Elektronik oleh penyelenggara negara, Orang, Badan Usaha, dan/atau masyarakat.
+		7. Jaringan Sistem Elektronik adalah terhubungnya dua Sistem Elektronik atau lebih, yang bersifat tertutup ataupun terbuka.
+		8. Agen Elektronik adalah perangkat dari suatu Sistem Elektronik yang dibuat untuk melakukan suatu tindakan terhadap suatu Informasi Elektronik tertentu secara otomatis yang diselenggarakan oleh Orang.
+		9. Sertifikat Elektronik adalah sertifikat yang bersifat elektronik yang memuat Tanda Tangan Elektronik dan identitas yang menunjukkan status subjek hukum para pihak dalam Transaksi Elektronik yang dikeluarkan oleh Penyelenggara Sertifikasi Elektronik.
+		10. Penyelenggara Sertifikasi Elektronik adalah badan hukum yang berfungsi sebagai pihak yang layak dipercaya, yang memberikan dan mengaudit Sertifikat Elektronik.
+		11. Lembaga Sertifikasi Keandalan adalah lembaga independen yang dibentuk oleh profesional yang diakui, disahkan, dan diawasi oleh Pemerintah dengan kewenangan mengaudit dan mengeluarkan sertifikat keandalan dalam Transaksi Elektronik.
+		12. Tanda Tangan Elektronik adalah tanda tangan yang terdiri atas Informasi Elektronik yang dilekatkan, terasosiasi atau terkait dengan Informasi Elektronik lainnya yang digunakan sebagai alat verifikasi dan autentikasi.
+		13. Penanda Tangan adalah subjek hukum yang terasosiasikan atau terkait dengan Tanda Tangan Elektronik.
+		14. Komputer adalah alat untuk memproses data elektronik, magnetik, optik, atau sistem yang melaksanakan fungsi logika, aritmatika, dan penyimpanan.
+		15. Akses adalah kegiatan melakukan interaksi dengan Sistem Elektronik yang berdiri sendiri atau dalam jaringan.
+		16. Kode Akses adalah angka, huruf, simbol, karakter lainnya atau kombinasi di antaranya, yang merupakan kunci untuk dapat mengakses Komputer dan/atau Sistem Elektronik lainnya.
+		17. Kontrak Elektronik adalah perjanjian para pihak yang dibuat melalui Sistem Elektronik.
+		18. Pengirim adalah subjek hukum yang mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik.
+		19. Penerima adalah subjek hukum yang menerima Informasi Elektronik dan/atau Dokumen Elektronik dari Pengirim.
+		20. Nama Domain adalah alamat internet penyelenggara negara, Orang, Badan Usaha, dan/atau masyarakat, yang dapat digunakan dalam berkomunikasi melalui internet, yang berupa kode atau susunan karakter yang bersifat unik untuk menunjukkan lokasi tertentu dalam internet.
+		21. Orang adalah orang perseorangan, baik warga negara Indonesia, warga negara asing, maupun badan hukum.
+		22. Badan Usaha adalah perusahaan perseorangan atau perusahaan persekutuan, baik yang berbadan hukum maupun yang tidak berbadan hukum.
+		23. Pemerintah adalah Menteri atau pejabat lainnya yang ditunjuk oleh Presiden.".
+
+uuite:pasal22008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 2";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal22008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 2 Ayat 1";
+    schema:isPartOf uuite:pasal22008;
+    schema:text "Undang-Undang ini berlaku untuk setiap Orang yang melakukan perbuatan hukum sebagaimana diatur dalam Undang-Undang ini, baik yang berada di wilayah hukum Indonesia maupun di luar wilayah hukum Indonesia, yang memiliki akibat hukum di wilayah hukum Indonesia dan/atau di luar wilayah hukum Indonesia dan merugikan kepentingan Indonesia.".
+
+uuite:pasal32008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 3";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal32008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 3 Ayat 1";
+    schema:isPartOf uuite:pasal32008;
+    schema:text "Pemanfaatan Teknologi Informasi dan Transaksi Elektronik dilaksanakan berdasarkan asas kepastian hukum, manfaat, kehati-hatian, iktikad baik, dan kebebasan memilih teknologi atau netral teknologi.".
+
+uuite:pasal42008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 4";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal42008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 4 Ayat 1";
+    schema:isPartOf uuite:pasal42008;
+    schema:text "Pemanfaatan Teknologi Informasi dan Transaksi Elektronik dilaksanakan dengan tujuan untuk:
+		a. mencerdaskan kehidupan bangsa sebagai bagian dari masyarakat informasi dunia;
+		b. mengembangkan perdagangan dan perekonomian nasional dalam rangka meningkatkan kesejahteraan masyarakat;
+		c. meningkatkan efektivitas dan efisiensi pelayanan publik;
+		d. membuka kesempatan seluas-luasnya kepada setiap Orang untuk memajukan pemikiran dan kemampuan di bidang penggunaan dan pemanfaatan Teknologi Informasi seoptimal mungkin dan bertanggung jawab; dan
+		e. memberikan rasa aman, keadilan, dan kepastian hukum bagi pengguna dan penyelenggara Teknologi Informasi.".
+
+uuite:pasal52008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 5";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal52008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 5 Ayat 1";
+    schema:isPartOf uuite:pasal52008;
+    schema:text "1. Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.".
+
+uuite:ayat2pasal52008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 5 Ayat 2";
+    schema:isPartOf uuite:pasal52008;
+    schema:text "2. Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya sebagaimana dimaksud pada ayat (1) merupakan perluasan dari alat bukti yang sah sesuai dengan Hukum Acara yang berlaku di Indonesia.".
+
+uuite:ayat3pasal52008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 5 Ayat 3";
+    schema:isPartOf uuite:pasal52008;
+    schema:text "3. Informasi Elektronik dan/atau Dokumen Elektronik dinyatakan sah apabila menggunakan Sistem Elektronik sesuai dengan ketentuan yang diatur dalam Undang-Undang ini.".
+
+uuite:ayat4pasal52008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 5 Ayat 4";
+    schema:isPartOf uuite:pasal52008;
+    schema:text "4. Ketentuan mengenai Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud pada ayat (1) tidak berlaku untuk:
+		a. surat yang menurut Undang-Undang harus dibuat dalam bentuk tertulis; dan
+		b. surat beserta dokumennya yang menurut Undang-Undang harus dibuat dalam bentuk akta notaril atau akta yang dibuat oleh pejabat pembuat akta.".
+
+uuite:pasal62008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 6";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal62008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 6 Ayat 1";
+    schema:isPartOf uuite:pasal62008;
+    schema:text "Dalam hal terdapat ketentuan lain selain yang diatur dalam Pasal 5 ayat (4) yang mensyaratkan bahwa suatu informasi harus berbentuk tertulis atau asli, Informasi Elektronik dan/atau Dokumen Elektronik dianggap sah sepanjang informasi yang tercantum di dalamnya dapat diakses, ditampilkan, dijamin keutuhannya, dan dapat dipertanggungjawabkan sehingga menerangkan suatu keadaan.".
+
+uuite:pasal72008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 7";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal72008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 7 Ayat 1";
+    schema:isPartOf uuite:pasal72008;
+    schema:text "Setiap Orang yang menyatakan hak, memperkuat hak yang telah ada, atau menolak hak Orang lain berdasarkan adanya Informasi Elektronik dan/atau Dokumen Elektronik harus memastikan bahwa Informasi Elektronik dan/atau Dokumen Elektronik yang ada padanya berasal dari Sistem Elektronik yang memenuhi syarat berdasarkan Peraturan Perundang-undangan.".
+
+uuite:pasal82008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 8";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal82008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 8 Ayat 1";
+    schema:isPartOf uuite:pasal82008;
+    schema:text "1. Kecuali diperjanjikan lain, waktu pengiriman suatu Informasi Elektronik dan/atau Dokumen Elektronik ditentukan pada saat Informasi Elektronik dan/atau Dokumen Elektronik telah dikirim dengan alamat yang benar oleh Pengirim ke suatu Sistem Elektronik yang ditunjuk atau dipergunakan Penerima dan telah memasuki Sistem Elektronik yang berada di luar kendali Pengirim.".
+
+uuite:ayat2pasal82008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 8 Ayat 2";
+    schema:isPartOf uuite:pasal82008;
+    schema:text "2. Kecuali diperjanjikan lain, waktu penerimaan suatu Informasi Elektronik dan/atau Dokumen Elektronik ditentukan pada saat Informasi Elektronik dan/atau Dokumen Elektronik memasuki Sistem Elektronik di bawah kendali Penerima yang berhak.".
+
+uuite:ayat3pasal82008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 8 Ayat 3";
+    schema:isPartOf uuite:pasal82008;
+    schema:text "3. Dalam hal Penerima telah menunjuk suatu Sistem Elektronik tertentu untuk menerima Informasi Elektronik, penerimaan terjadi pada saat Informasi Elektronik dan/atau Dokumen Elektronik memasuki Sistem Elektronik yang ditunjuk.".
+
+uuite:ayat4pasal82008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 8 Ayat 4";
+    schema:isPartOf uuite:pasal82008;
+    schema:text "4. Dalam hal terdapat dua atau lebih sistem informasi yang digunakan dalam pengiriman atau penerimaan Informasi Elektronik dan/atau Dokumen Elektronik, maka:
+		a. waktu pengiriman adalah ketika Informasi Elektronik dan/atau Dokumen Elektronik memasuki sistem informasi pertama yang berada di luar kendali Pengirim;
+		b. waktu penerimaan adalah ketika Informasi Elektronik dan/atau Dokumen Elektronik memasuki sistem informasi terakhir yang berada di bawah kendali Penerima.".
+
+uuite:pasal92008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 9";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal92008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 9 Ayat 1";
+    schema:isPartOf uuite:pasal92008;
+    schema:text "Pelaku usaha yang menawarkan produk melalui Sistem Elektronik harus menyediakan informasi yang lengkap dan benar berkaitan dengan syarat kontrak, produsen, dan produk yang ditawarkan.".
+
+uuite:pasal102008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 10";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal102008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 10 Ayat 1";
+    schema:isPartOf uuite:pasal102008;
+    schema:text "1. Setiap pelaku usaha yang menyelenggarakan Transaksi Elektronik dapat disertifikasi oleh Lembaga Sertifikasi Keandalan.".
+
+uuite:ayat2pasal102008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 10 Ayat 2";
+    schema:isPartOf uuite:pasal102008;
+    schema:text "2. Ketentuan mengenai pembentukan Lembaga Sertifikasi Keandalan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.".
+
+uuite:pasal112008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 11";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal112008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 11 Ayat 1";
+    schema:isPartOf uuite:pasal112008;
+    schema:text "1. Tanda Tangan Elektronik memiliki kekuatan hukum dan akibat hukum yang sah selama memenuhi persyaratan sebagai berikut:
+    a. data pembuatan Tanda Tangan Elektronik terkait hanya kepada Penanda Tangan;
+    b. data pembuatan Tanda Tangan Elektronik pada saat proses penandatanganan elektronik hanya berada dalam kuasa Penanda Tangan;
+    c. segala perubahan terhadap Tanda Tangan Elektronik yang terjadi setelah waktu penandatanganan dapat diketahui;
+    d. segala perubahan terhadap Informasi Elektronik yang terkait dengan Tanda Tangan Elektronik tersebut setelah waktu penandatanganan dapat diketahui;
+    e.terdapat cara tertentu yang dipakai untuk mengidentifikasi siapa Penandatangannya; dan
+    f. terdapat cara tertentu untuk menunjukkan bahwa Penanda Tangan telah memberikan persetujuan terhadap Informasi Elektronik yang terkait.".
+
+uuite:ayat2pasal112008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 11 Ayat 2";
+    schema:isPartOf uuite:pasal112008;
+    schema:text "2. Ketentuan lebih lanjut tentang Tanda Tangan Elektronik sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.".
+
+uuite:pasal122008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 12";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal122008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 12 Ayat 1";
+    schema:isPartOf uuite:pasal122008;
+    schema:text "1. Setiap Orang yang terlibat dalam Tanda Tangan Elektronik berkewajiban memberikan pengamanan atas Tanda Tangan Elektronik yang digunakannya.".
+
+uuite:ayat2pasal122008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 12 Ayat 2";
+    schema:isPartOf uuite:pasal122008;
+    schema:text "2. Pengamanan Tanda Tangan Elektronik sebagaimana dimaksud pada ayat (1) sekurang-kurangnya meliputi:
+    a. sistem tidak dapat diakses oleh Orang lain yang tidak berhak;
+    b. Penanda Tangan harus menerapkan prinsip kehati-hatian untuk menghindari penggunaan secara tidak sah terhadap data terkait pembuatan Tanda Tangan Elektronik;
+    c. Penanda Tangan harus tanpa menunda-nunda, menggunakan cara yang dianjurkan oleh penyelenggara Tanda Tangan Elektronik ataupun cara lain yang layak dan sepatutnya harus segera memberitahukan kepada seseorang yang oleh Penanda Tangan dianggap memercayai Tanda Tangan Elektronik atau kepada pihak pendukung layanan Tanda Tangan Elektronik jika:
+        1. Penanda Tangan mengetahui bahwa data pembuatan Tanda Tangan Elektronik telah dibobol;
+        2. keadaan yang diketahui oleh Penanda Tangan dapat menimbulkan risiko yang berarti, kemungkinan akibat bobolnya data pembuatan Tanda Tangan Elektronik; dan
+    d. dalam hal Sertifikat Elektronik digunakan untuk mendukung Tanda Tangan Elektronik, Penanda Tangan harus memastikan kebenaran dan keutuhan semua informasi yang terkait dengan Sertifikat Elektronik tersebut.".
+
+uuite:ayat3pasal122008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 12 Ayat 3";
+    schema:isPartOf uuite:pasal122008;
+    schema:text "3. Setiap Orang yang melakukan pelanggaran ketentuan sebagaimana dimaksud pada ayat (1), bertanggung jawab atas segala kerugian dan konsekuensi hukum yang timbul.".
+
+uuite:pasal132008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 13";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal132008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 13 Ayat 1";
+    schema:isPartOf uuite:pasal132008;
+    schema:text "1. Setiap Orang berhak menggunakan jasa Penyelenggara Sertifikasi Elektronik untuk pembuatan Tanda Tangan Elektronik.".
+
+uuite:ayat2pasal132008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 13 Ayat 2";
+    schema:isPartOf uuite:pasal132008;
+    schema:text "2. Penyelenggara Sertifikasi Elektronik harus memastikan keterkaitan suatu Tanda Tangan Elektronik dengan pemiliknya.".
+
+uuite:ayat3pasal132008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 13 Ayat 3";
+    schema:isPartOf uuite:pasal132008;
+    schema:text "3. Penyelenggara Sertifikasi Elektronik terdiri atas:
+    a. Penyelenggara Sertifikasi Elektronik Indonesia; dan
+    b. Penyelenggara Sertifikasi Elektronik asing.".
+
+uuite:ayat4pasal132008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 13 Ayat 4";
+    schema:isPartOf uuite:pasal132008;
+    schema:text "4. Penyelenggara Sertifikasi Elektronik Indonesia berbadan hukum Indonesia dan berdomisili di Indonesia.".
+
+uuite:ayat5pasal132008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 13 Ayat 5";
+    schema:isPartOf uuite:pasal132008;
+    schema:text "5. Penyelenggara Sertifikasi Elektronik asing yang beroperasi di Indonesia harus terdaftar di Indonesia.".
+
+uuite:ayat6pasal132008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 13 Ayat 6";
+    schema:isPartOf uuite:pasal132008;
+    schema:text "6. Ketentuan lebih lanjut mengenai Penyelenggara Sertifikasi Elektronik sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Pemerintah.".
+
+uuite:pasal142008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 14";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal142008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 14 Ayat 1";
+    schema:isPartOf uuite:pasal142008;
+    schema:text "Penyelenggara Sertifikasi Elektronik sebagaimana dimaksud dalam Pasal 13 ayat (1) sampai dengan ayat (5) harus menyediakan informasi yang akurat, jelas, dan pasti kepada setiap pengguna jasa, yang meliputi:
+    a. metode yang digunakan untuk mengidentifikasi Penanda Tangan;
+    b. hal yang dapat digunakan untuk mengetahui data diri pembuat Tanda Tangan Elektronik; dan
+    c. hal yang dapat digunakan untuk menunjukkan keberlakuan dan keamanan Tanda Tangan Elektronik.".
+
+uuite:pasal152008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 15";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal152008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 15 Ayat 1";
+    schema:isPartOf uuite:pasal152008;
+    schema:text "1. Setiap Penyelenggara Sistem Elektronik harus menyelenggarakan Sistem Elektronik secara andal dan aman serta bertanggung jawab terhadap beroperasinya Sistem Elektronik sebagaimana mestinya.".
+
+uuite:ayat2pasal152008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 15 Ayat 2";
+    schema:isPartOf uuite:pasal152008;
+    schema:text "2. Penyelenggara Sistem Elektronik bertanggung jawab terhadap Penyelenggaraan Sistem Elektroniknya.".
+
+uuite:ayat3pasal152008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 15 Ayat 3";
+    schema:isPartOf uuite:pasal152008;
+    schema:text "3. Ketentuan sebagaimana dimaksud pada ayat (2) tidak berlaku dalam hal dapat dibuktikan terjadinya keadaan memaksa, kesalahan, dan/atau kelalaian pihak pengguna Sistem Elektronik.".
+
+uuite:pasal162008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 16";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal162008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 16 Ayat 1";
+    schema:isPartOf uuite:pasal162008;
+    schema:text "1. Sepanjang tidak ditentukan lain oleh undang-undang tersendiri, setiap Penyelenggara Sistem Elektronik wajib mengoperasikan Sistem Elektronik yang memenuhi persyaratan minimum sebagai berikut:
+    a. dapat menampilkan kembali Informasi Elektronik dan/atau Dokumen Elektronik secara utuh sesuai dengan masa retensi yang ditetapkan dengan Peraturan Perundang-undangan;
+    b. dapat melindungi ketersediaan, keutuhan, keotentikan, kerahasiaan, dan keteraksesan Informasi Elektronik dalam Penyelenggaraan Sistem Elektronik tersebut;
+    c. dapat beroperasi sesuai dengan prosedur atau petunjuk dalam Penyelenggaraan Sistem Elektronik tersebut;
+    d. dilengkapi dengan prosedur atau petunjuk yang diumumkan dengan bahasa, informasi, atau simbol yang dapat dipahami oleh pihak yang bersangkutan dengan Penyelenggaraan Sistem Elektronik tersebut;
+    e. memiliki mekanisme yang berkelanjutan untuk menjaga kebaruan, kejelasan, dan kebertanggungjawaban prosedur atau petunjuk.".
+
+uuite:ayat2pasal162008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 16 Ayat 2";
+    schema:isPartOf uuite:pasal162008;
+    schema:text "2. Ketentuan lebih lanjut tentang Penyelenggaraan Sistem Elektronik sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.".
+
+uuite:pasal172008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 17";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal172008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 17 Ayat 1";
+    schema:isPartOf uuite:pasal172008;
+    schema:text "1. Penyelenggaraan Transaksi Elektronik dapat dilakukan dalam lingkup publik ataupun privat.".
+
+uuite:ayat2pasal172008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 17 Ayat 2";
+    schema:isPartOf uuite:pasal172008;
+    schema:text "2. Para pihak yang melakukan Transaksi Elektronik sebagaimana dimaksud pada ayat (1) wajib beriktikad baik dalam melakukan interaksi dan/atau pertukaran Informasi Elektronik dan/atau Dokumen Elektronik selama transaksi berlangsung.".
+
+uuite:ayat3pasal172008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 17 Ayat 3";
+    schema:isPartOf uuite:pasal172008;
+    schema:text "3. Ketentuan lebih lanjut mengenai penyelenggaraan Transaksi Elektronik sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.".
+
+uuite:pasal182008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 18";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal182008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 18 Ayat 1";
+    schema:isPartOf uuite:pasal182008;
+    schema:text "1. Transaksi Elektronik yang dituangkan ke dalam Kontrak Elektronik mengikat para pihak.".
+
+uuite:ayat2pasal182008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 18 Ayat 2";
+    schema:isPartOf uuite:pasal182008;
+    schema:text "2. Para pihak memiliki kewenangan untuk memilih hukum yang berlaku bagi Transaksi Elektronik internasional yang dibuatnya.".
+
+uuite:ayat3pasal182008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 18 Ayat 3";
+    schema:isPartOf uuite:pasal182008;
+    schema:text "3. Jika para pihak tidak melakukan pilihan hukum dalam Transaksi Elektronik internasional, hukum yang berlaku didasarkan pada asas Hukum Perdata Internasional.".
+
+uuite:ayat4pasal182008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 18 Ayat 4";
+    schema:isPartOf uuite:pasal182008;
+    schema:text "4. Para pihak memiliki kewenangan untuk menetapkan forum pengadilan, arbitrase, atau lembaga penyelesaian sengketa alternatif lainnya yang berwenang menangani sengketa yang mungkin timbul dari Transaksi Elektronik internasional yang dibuatnya.".
+
+uuite:ayat5pasal182008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 18 Ayat 5";
+    schema:isPartOf uuite:pasal182008;
+    schema:text "5. Jika para pihak tidak melakukan pilihan forum sebagaimana dimaksud pada ayat (4), penetapan kewenangan pengadilan, arbitrase, atau lembaga penyelesaian sengketa alternatif lainnya yang berwenang menangani sengketa yang mungkin timbul dari transaksi tersebut, didasarkan pada asas Hukum Perdata Internasional.".
+
+uuite:pasal192008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 19";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal192008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 19 Ayat 1";
+    schema:isPartOf uuite:pasal192008;
+    schema:text "Para pihak yang melakukan Transaksi Elektronik harus menggunakan Sistem Elektronik yang disepakati.".
+
+
+uuite:pasal202008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Pasal";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 20";
+    schema:isPartOf uuite:2008.
+
+uuite:ayat1pasal202008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 20 Ayat 1";
+    schema:isPartOf uuite:pasal202008;
+    schema:text "1. Kecuali ditentukan lain oleh para pihak, Transaksi Elektronik terjadi pada saat penawaran transaksi yang dikirim Pengirim telah diterima dan disetujui Penerima.".
+
+uuite:ayat2pasal202008 a schema:Legislation;
+    schema:legislationLegalForce schema:InForce;
+    schema:legislationType "Ayat";
+    schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 20 Ayat 2";
+    schema:isPartOf uuite:pasal202008;
+    schema:text "2. Persetujuan atas penawaran Transaksi Elektronik sebagaimana dimaksud pada ayat (1) harus dilakukan dengan pernyataan penerimaan secara elektronik.".
