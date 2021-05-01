@@ -15,4 +15,8 @@ uuite:2008 a schema:Legislation
     schema:legislationPassedBy uuite:sby
     owl:sameAs wikidata:Q25453508
 
-
+uuite:2016 a schema:Legislation
+    schema:legislationDate "2016-11-25"^schema:Date
+    schema:legislationLegalForce schema:InForce
+    schema:legislationChanges uuite:2008
+    schema:legislationPassedBy uuite:jokowi
