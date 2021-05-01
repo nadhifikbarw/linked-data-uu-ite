@@ -18,10 +18,12 @@ uuite:2008 a schema:Legislation
     schema:legislationDate "2008-04-21"^schema:Date
     schema:legislationLegalForce schema:PartiallyInForce
     schema:legislationPassedBy uuite:sby
+    schema:inLanguage dbr:Indonesian_language
     owl:sameAs wikidata:Q25453508
 
 uuite:2016 a schema:Legislation
     schema:legislationDate "2016-11-25"^schema:Date
     schema:legislationLegalForce schema:InForce
     schema:legislationChanges uuite:2008
+    schema:inLanguage dbr:Indonesian_language
     schema:legislationPassedBy uuite:jokowi
