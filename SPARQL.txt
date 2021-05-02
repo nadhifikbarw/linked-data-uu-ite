@@ -1,0 +1,28 @@
+http://sparql.org/sparql.html
+
+1. Mencari ayat serta subayat yang masih berlaku. Subayat merupakan amandemen dari ayat.
+
+PREFIX schema: <http://schema.org/>
+PREFIX uuite: <http://linked-data-uu-ite.netlify.app/datagraph.ttl#>
+
+SELECT ?id ?text
+WHERE {
+  VALUES ?tipe { "Ayat" "Subayat" }
+  ?ayat schema:legislationLegalForce schema:InForce .
+  ?ayat schema:legislationType ?tipe .
+  ?ayat schema:text ?text .
+  ?ayat schema:legislationIdentifier ?id
+}
+
+2. Mencari ayat yang dipengaruhi amandemen
+
+PREFIX schema: <http://schema.org/>
+PREFIX uuite: <http://linked-data-uu-ite.netlify.app/datagraph.ttl#>
+
+SELECT ?id ?text
+WHERE {
+  ?ayat schema:legislationChanges ?ayatDiamandemen.
+  ?ayatDiamandemen schema:legislationType "Ayat".
+  ?ayatDiamandemen schema:legislationIdentifier ?id.
+  ?ayatDiamandemen schema:text ?text.
+}
