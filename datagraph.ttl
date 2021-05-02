@@ -48,6 +48,7 @@ uuite:sub1ayat1pasalI2016 a schema:Legislation;
     schema:legislationType "Subayat";
     schema:isPartOf uuite:ayat1pasalI2016;
     schema:position 1;
+    schema:legislationChanges uuite:pasal12008, uuite:ayat1pasal12008;
     schema:text "1. Di antara angka 6 dan angka 7 Pasal 1 disisipkan 1 (satu) angka, yakni angka 6a sehingga Pasal 1 berbunyi sebagai berikut:
 
 	Pasal 1
@@ -90,6 +91,7 @@ uuite:sub3ayat1pasalI2016 a schema:Legislation;
     schema:legislationType "Subayat";
     schema:isPartOf uuite:ayat1pasalI2016;
     schema:position 3;
+    schema:legislationChanges uuite:pasal262008, uuite:ayat1pasal262008, uuite:ayat2pasal262008;
     schema:text "3. Ketentuan Pasal 26 ditambah 3 (tiga) ayat, yakni ayat (3), ayat (4), dan ayat (5) sehingga Pasal 26 berbunyi sebagai berikut:
 
 	    Pasal 26
@@ -112,6 +114,7 @@ uuite:sub5ayat1pasalI2016 a schema:Legislation;
     schema:legislationType "Subayat";
     schema:isPartOf uuite:ayat1pasalI2016;
     schema:position 5;
+    schema:legislationChanges uuite:pasal312008, uuite:ayat1pasal312008, uuite:ayat2pasal312008, uuite:ayat3pasal312008, uuite:ayat4pasal312008;
     schema:text "5.Ketentuan ayat (3) dan ayat (4) Pasal 31 diubah sehingga Pasal 31 berbunyi sebagai berikut:
 
 	Pasal 31
@@ -125,6 +128,7 @@ uuite:sub6ayat1pasalI2016 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
     schema:legislationType "Subayat";
     schema:isPartOf uuite:ayat1pasalI2016;
+    schema:legislationChanges uuite:pasal402008, uuite:ayat1pasal402008, uuite:ayat2pasal402008, uuite:ayat3pasal402008, uuite:ayat4pasal402008, uuite:ayat5pasal402008, uuite:ayat6pasal402008;
     schema:position 6;
     schema:text "6.Di antara ayat (2) dan ayat (3) Pasal 40 disisipkan 2 (dua) ayat, yakni ayat (2a) dan ayat (2b); ketentuan ayat (6) Pasal 40 diubah; serta penjelasan ayat (1) Pasal 40 diubah sehingga Pasal 40 berbunyi sebagai berikut:
 
@@ -143,6 +147,7 @@ uuite:sub7ayat1pasalI2016 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
     schema:legislationType "Subayat";
     schema:isPartOf uuite:ayat1pasalI2016;
+    schema:legislationChanges uuite:pasal432008, uuite:ayat1pasal432008, uuite:ayat2pasal432008, uuite:ayat3pasal432008, uuite:ayat4pasal432008, uuite:ayat5pasal432008, uuite:ayat6pasal432008, uuite:ayat7pasal432008, uuite:ayat8pasal432008;
     schema:position 7;
     schema:text "7. Ketentuan ayat (2), ayat (3), ayat (5), ayat (6), ayat (7), dan ayat (8) Pasal 43 diubah; di antara ayat (7) dan ayat (8) Pasal 43 disisipkan 1 (satu) ayat, yakni ayat (7a); serta penjelasan ayat (1) Pasal 43 diubah sehingga Pasal 43 berbunyi sebagai berikut:
 
@@ -173,6 +178,7 @@ uuite:sub8ayat1pasalI2016 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
     schema:legislationType "Subayat";
     schema:isPartOf uuite:ayat1pasalI2016;
+    schema:legislationChanges uuite:pasal452008, uuite:ayat1pasal452008, uuite:ayat2pasal452008, uuite:ayat3pasal452008;
     schema:position 8;
     schema:text "8. Ketentuan Pasal 45 diubah serta di antara Pasal 45 dan Pasal 46 disisipkan 2 (dua) pasal, yakni Pasal 45A dan Pasal 45B sehingga berbunyi sebagai berikut:
 
@@ -834,20 +840,20 @@ uuite:ayat1pasal252008 a schema:Legislation;
     schema:text "Informasi Elektronik dan/atau Dokumen Elektronik yang disusun menjadi karya intelektual, situs internet, dan karya intelektual yang ada di dalamnya dilindungi sebagai Hak Kekayaan Intelektual berdasarkan ketentuan Peraturan Perundang-undangan.".
 
 uuite:pasal262008 a schema:Legislation;
-    schema:legislationLegalForce schema:InForce;
+    schema:legislationLegalForce schema:NotInForce;
     schema:legislationType "Pasal";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 26";
     schema:isPartOf uuite:2008.
 
 uuite:ayat1pasal262008 a schema:Legislation;
-    schema:legislationLegalForce schema:InForce;
+    schema:legislationLegalForce schema:NotInForce;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 26 Ayat 1";
     schema:isPartOf uuite:pasal262008;
     schema:text "1. Kecuali ditentukan lain oleh Peraturan Perundang-undangan, penggunaan setiap informasi melalui media elektronik yang menyangkut data pribadi seseorang harus dilakukan atas persetujuan Orang yang bersangkutan.".
 
 uuite:ayat2pasal262008 a schema:Legislation;
-    schema:legislationLegalForce schema:InForce;
+    schema:legislationLegalForce schema:NotInForce;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 26 Ayat 2";
     schema:isPartOf uuite:pasal262008;
@@ -948,34 +954,34 @@ uuite:ayat3pasal302008 a schema:Legislation;
     schema:text "3. Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum mengakses Komputer dan/atau Sistem Elektronik dengan cara apa pun dengan melanggar, menerobos, melampaui, atau menjebol sistem pengamanan.".
 
 uuite:pasal312008 a schema:Legislation;
-    schema:legislationLegalForce schema:InForce;
+    schema:legislationLegalForce schema:NotInForce;
     schema:legislationType "Pasal";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 31";
     schema:isPartOf uuite:2008.
 
 uuite:ayat1pasal312008 a schema:Legislation;
-    schema:legislationLegalForce schema:InForce;
+    schema:legislationLegalForce schema:NotInForce;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 31 Ayat 1";
     schema:isPartOf uuite:pasal312008;
     schema:text "1. Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum melakukan intersepsi atau penyadapan atas Informasi Elektronik dan/atau Dokumen Elektronik dalam suatu Komputer dan/atau Sistem Elektronik tertentu milik Orang lain.".
 
 uuite:ayat2pasal312008 a schema:Legislation;
-    schema:legislationLegalForce schema:InForce;
+    schema:legislationLegalForce schema:NotInForce;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 31 Ayat 2";
     schema:isPartOf uuite:pasal312008;
     schema:text "2. Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum melakukan intersepsi atas transmisi Informasi Elektronik dan/atau Dokumen Elektronik yang tidak bersifat publik dari, ke, dan di dalam suatu Komputer dan/atau Sistem Elektronik tertentu milik Orang lain, baik yang tidak menyebabkan perubahan apa pun maupun yang menyebabkan adanya perubahan, penghilangan, dan/atau penghentian Informasi Elektronik dan/atau Dokumen Elektronik yang sedang ditransmisikan.".
 
 uuite:ayat3pasal312008 a schema:Legislation;
-    schema:legislationLegalForce schema:InForce;
+    schema:legislationLegalForce schema:NotInForce;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 31 Ayat 3";
     schema:isPartOf uuite:pasal312008;
     schema:text "3. Kecuali intersepsi sebagaimana dimaksud pada ayat (1) dan ayat (2), intersepsi yang dilakukan dalam rangka penegakan hukum atas permintaan kepolisian, kejaksaan, dan/atau institusi penegak hukum lainnya yang ditetapkan berdasarkan undang-undang.".
 
 uuite:ayat4pasal312008 a schema:Legislation;
-    schema:legislationLegalForce schema:InForce;
+    schema:legislationLegalForce schema:NotInForce;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 31 Ayat 4";
     schema:isPartOf uuite:pasal312008;
