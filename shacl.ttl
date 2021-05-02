@@ -20,6 +20,7 @@ uuite:LegislationShape a sh:NodeShape;
         sh:name "legislation legal force status";
         sh:path schema:legislationLegalForce;
         sh:in ( schema:NotInForce schema:PartiallyInForce schema:InForce );
+        sh:minCount 1;
         sh:maxCount 1;
     ];
     sh:property [
@@ -37,6 +38,7 @@ uuite:LegislationShape a sh:NodeShape;
         sh:name "legislation type";
         sh:path schema:legislationType;
         sh:datatype xsd:string;
+        sh:minCount 1;
         sh:maxCount 1;
     ];
     sh:property [
