@@ -1,4 +1,6 @@
+# Engine
 http://sparql.org/sparql.html
+https://raw.githubusercontent.com/nadhifikbarw/linked-data-uu-ite/master/datagraph.ttl
 
 1. Mencari ayat serta subayat yang masih berlaku. Subayat merupakan amandemen dari ayat.
 
