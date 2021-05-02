@@ -28,3 +28,15 @@ WHERE {
   ?ayatDiamandemen schema:legislationIdentifier ?id.
   ?ayatDiamandemen schema:text ?text.
 }
+
+3. Mencari isi pasal tertentu (Contoh: Pasal 43 UU ITE 2008)
+
+PREFIX schema: <http://schema.org/>
+PREFIX uuite: <http://linked-data-uu-ite.netlify.app/datagraph.ttl#>
+
+SELECT ?id ?text
+WHERE {
+  ?ayatDiamandemen schema:legislationIdentifier ?id.
+  ?ayatDiamandemen schema:text ?text.
+  ?ayatDiamandemen schema:isPartOf uuite:pasal432008;
+}
