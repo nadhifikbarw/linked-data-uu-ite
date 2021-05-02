@@ -49,7 +49,7 @@ uuite:sub1ayat1pasalI2016 a schema:Legislation;
     schema:isPartOf uuite:ayat1pasalI2016;
     schema:position 1;
     schema:legislationChanges uuite:pasal12008, uuite:ayat1pasal12008;
-    schema:text "1. Di antara angka 6 dan angka 7 Pasal 1 disisipkan 1 (satu) angka, yakni angka 6a sehingga Pasal 1 berbunyi sebagai berikut:
+    schema:text """1. Di antara angka 6 dan angka 7 Pasal 1 disisipkan 1 (satu) angka, yakni angka 6a sehingga Pasal 1 berbunyi sebagai berikut:
 
 	Pasal 1
 
@@ -77,7 +77,7 @@ uuite:sub1ayat1pasalI2016 a schema:Legislation;
 	20. Nama Domain adalah alamat internet penyelenggara negara, Orang, Badan Usaha, dan/atau masyarakat, yang dapat digunakan dalam berkomunikasi melalui internet, yang berupa kode atau susunan karakter yang bersifat unik untuk menunjukkan lokasi tertentu dalam internet.
 	21. Orang adalah orang perseorangan, baik warga negara Indonesia, warga negara asing, maupun badan hukum.
 	22. Badan Usaha adalah perusahaan perseorangan atau perusahaan persekutuan, baik yang berbadan hukum maupun yang tidak berbadan hukum.
-	23. Pemerintah adalah Menteri atau pejabat lainnya yang ditunjuk oleh Presiden." .
+	23. Pemerintah adalah Menteri atau pejabat lainnya yang ditunjuk oleh Presiden.""".
 
 uuite:sub2ayat1pasalI2016 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -92,7 +92,7 @@ uuite:sub3ayat1pasalI2016 a schema:Legislation;
     schema:isPartOf uuite:ayat1pasalI2016;
     schema:position 3;
     schema:legislationChanges uuite:pasal262008, uuite:ayat1pasal262008, uuite:ayat2pasal262008;
-    schema:text "3. Ketentuan Pasal 26 ditambah 3 (tiga) ayat, yakni ayat (3), ayat (4), dan ayat (5) sehingga Pasal 26 berbunyi sebagai berikut:
+    schema:text """3. Ketentuan Pasal 26 ditambah 3 (tiga) ayat, yakni ayat (3), ayat (4), dan ayat (5) sehingga Pasal 26 berbunyi sebagai berikut:
 
 	    Pasal 26
 
@@ -100,7 +100,7 @@ uuite:sub3ayat1pasalI2016 a schema:Legislation;
 	    2. Setiap Orang yang dilanggar haknya sebagaimana dimaksud pada ayat (1) dapat mengajukan gugatan atas kerugian yang ditimbulkan berdasarkan Undang-Undang ini.
 	    3. Setiap Penyelenggara Sistem Elektronik wajib menghapus Informasi Elektronik dan/atau Dokumen Elektronik yang tidak relevan yang berada di bawah kendalinya atas permintaan Orang yang bersangkutan berdasarkan penetapan pengadilan.
 	    4. Setiap Penyelenggara Sistem Elektronik wajib menyediakan mekanisme penghapusan Informasi Elektronik dan/atau Dokumen Elektronik yang sudah tidak relevan sesuai dengan ketentuan peraturan perundang-undangan.
-	    5. Ketentuan mengenai tata cara penghapusan Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud pada ayat (3) dan ayat (4) diatur dalam peraturan pemerintah." .
+	    5. Ketentuan mengenai tata cara penghapusan Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud pada ayat (3) dan ayat (4) diatur dalam peraturan pemerintah.""" .
 
 uuite:sub4ayat1pasalI2016 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -115,14 +115,14 @@ uuite:sub5ayat1pasalI2016 a schema:Legislation;
     schema:isPartOf uuite:ayat1pasalI2016;
     schema:position 5;
     schema:legislationChanges uuite:pasal312008, uuite:ayat1pasal312008, uuite:ayat2pasal312008, uuite:ayat3pasal312008, uuite:ayat4pasal312008;
-    schema:text "5.Ketentuan ayat (3) dan ayat (4) Pasal 31 diubah sehingga Pasal 31 berbunyi sebagai berikut:
+    schema:text """5.Ketentuan ayat (3) dan ayat (4) Pasal 31 diubah sehingga Pasal 31 berbunyi sebagai berikut:
 
 	Pasal 31
 
 	1. Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum melakukan intersepsi atau penyadapan atas Informasi Elektronik dan/atau Dokumen Elektronik dalam suatu Komputer dan/atau Sistem Elektronik tertentu milik Orang lain.
 	2. Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum melakukan intersepsi atas transmisi Informasi Elektronik dan/atau Dokumen Elektronik yang tidak bersifat publik dari, ke, dan di dalam suatu Komputer dan/atau Sistem Elektronik tertentu milik Orang lain, baik yang tidak menyebabkan perubahan apa pun maupun yang menyebabkan adanya perubahan, penghilangan, dan/atau penghentian Informasi Elektronik dan/atau Dokumen Elektronik yang sedang ditransmisikan.
 	3. Ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak berlaku terhadap intersepsi atau penyadapan yang dilakukan dalam rangka penegakan hukum atas permintaan kepolisian, kejaksaan, atau institusi lainnya yang kewenangannya ditetapkan berdasarkan undang-undang.
-	4. Ketentuan lebih lanjut mengenai tata cara intersepsi sebagaimana dimaksud pada ayat (3) diatur dengan undang-undang." .
+	4. Ketentuan lebih lanjut mengenai tata cara intersepsi sebagaimana dimaksud pada ayat (3) diatur dengan undang-undang.""" .
 
 uuite:sub6ayat1pasalI2016 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -130,7 +130,7 @@ uuite:sub6ayat1pasalI2016 a schema:Legislation;
     schema:isPartOf uuite:ayat1pasalI2016;
     schema:legislationChanges uuite:pasal402008, uuite:ayat1pasal402008, uuite:ayat2pasal402008, uuite:ayat3pasal402008, uuite:ayat4pasal402008, uuite:ayat5pasal402008, uuite:ayat6pasal402008;
     schema:position 6;
-    schema:text "6.Di antara ayat (2) dan ayat (3) Pasal 40 disisipkan 2 (dua) ayat, yakni ayat (2a) dan ayat (2b); ketentuan ayat (6) Pasal 40 diubah; serta penjelasan ayat (1) Pasal 40 diubah sehingga Pasal 40 berbunyi sebagai berikut:
+    schema:text """6.Di antara ayat (2) dan ayat (3) Pasal 40 disisipkan 2 (dua) ayat, yakni ayat (2a) dan ayat (2b); ketentuan ayat (6) Pasal 40 diubah; serta penjelasan ayat (1) Pasal 40 diubah sehingga Pasal 40 berbunyi sebagai berikut:
 
 	Pasal 40
 
@@ -141,7 +141,7 @@ uuite:sub6ayat1pasalI2016 a schema:Legislation;
 	3. Pemerintah menetapkan instansi atau institusi yang memiliki data elektronik strategis yang wajib dilindungi.
 	4. Instansi atau institusi sebagaimana dimaksud pada ayat (3) harus membuat Dokumen Elektronik dan rekam cadang elektroniknya serta menghubungkannya ke pusat data tertentu untuk kepentingan pengamanan data.
 	5. Instansi atau institusi lain selain diatur pada ayat (3) membuat Dokumen Elektronik dan rekam cadang elektroniknya sesuai dengan keperluan perlindungan data yang dimilikinya.
-	6. Ketentuan lebih lanjut mengenai peran Pemerintah sebagaimana dimaksud pada ayat (1), ayat (2), ayat (2a), ayat (2b), dan ayat (3) diatur dalam peraturan pemerintah." .
+	6. Ketentuan lebih lanjut mengenai peran Pemerintah sebagaimana dimaksud pada ayat (1), ayat (2), ayat (2a), ayat (2b), dan ayat (3) diatur dalam peraturan pemerintah.""" .
 
 uuite:sub7ayat1pasalI2016 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -149,7 +149,7 @@ uuite:sub7ayat1pasalI2016 a schema:Legislation;
     schema:isPartOf uuite:ayat1pasalI2016;
     schema:legislationChanges uuite:pasal432008, uuite:ayat1pasal432008, uuite:ayat2pasal432008, uuite:ayat3pasal432008, uuite:ayat4pasal432008, uuite:ayat5pasal432008, uuite:ayat6pasal432008, uuite:ayat7pasal432008, uuite:ayat8pasal432008;
     schema:position 7;
-    schema:text "7. Ketentuan ayat (2), ayat (3), ayat (5), ayat (6), ayat (7), dan ayat (8) Pasal 43 diubah; di antara ayat (7) dan ayat (8) Pasal 43 disisipkan 1 (satu) ayat, yakni ayat (7a); serta penjelasan ayat (1) Pasal 43 diubah sehingga Pasal 43 berbunyi sebagai berikut:
+    schema:text """7. Ketentuan ayat (2), ayat (3), ayat (5), ayat (6), ayat (7), dan ayat (8) Pasal 43 diubah; di antara ayat (7) dan ayat (8) Pasal 43 disisipkan 1 (satu) ayat, yakni ayat (7a); serta penjelasan ayat (1) Pasal 43 diubah sehingga Pasal 43 berbunyi sebagai berikut:
 
 	Pasal 43
 
@@ -172,7 +172,7 @@ uuite:sub7ayat1pasalI2016 a schema:Legislation;
 	6. Penangkapan dan penahanan terhadap pelaku tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik dilakukan sesuai dengan ketentuan hukum acara pidana.
 	7. Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (1) dalam melaksanakan tugasnya memberitahukan dimulainya penyidikan kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia.
 	7a. Dalam hal penyidikan sudah selesai, Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (1) menyampaikan hasil penyidikannya kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia.
-	8. Dalam rangka mengungkap tindak pidana Informasi Elektronik dan Transaksi Elektronik, penyidik dapat berkerja sama dengan penyidik negara lain untuk berbagi informasi dan alat bukti sesuai dengan ketentuan peraturan perundang-undangan.".
+	8. Dalam rangka mengungkap tindak pidana Informasi Elektronik dan Transaksi Elektronik, penyidik dapat berkerja sama dengan penyidik negara lain untuk berbagi informasi dan alat bukti sesuai dengan ketentuan peraturan perundang-undangan.""".
 
 uuite:sub8ayat1pasalI2016 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -180,7 +180,7 @@ uuite:sub8ayat1pasalI2016 a schema:Legislation;
     schema:isPartOf uuite:ayat1pasalI2016;
     schema:legislationChanges uuite:pasal452008, uuite:ayat1pasal452008, uuite:ayat2pasal452008, uuite:ayat3pasal452008;
     schema:position 8;
-    schema:text "8. Ketentuan Pasal 45 diubah serta di antara Pasal 45 dan Pasal 46 disisipkan 2 (dua) pasal, yakni Pasal 45A dan Pasal 45B sehingga berbunyi sebagai berikut:
+    schema:text """8. Ketentuan Pasal 45 diubah serta di antara Pasal 45 dan Pasal 46 disisipkan 2 (dua) pasal, yakni Pasal 45A dan Pasal 45B sehingga berbunyi sebagai berikut:
 
 	Pasal 45
 
@@ -197,7 +197,7 @@ uuite:sub8ayat1pasalI2016 a schema:Legislation;
 
 	Pasal 45B
 
-	Setiap Orang yang dengan sengaja dan tanpa hak mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik yang berisi ancaman kekerasan atau menakut-nakuti yang ditujukan secara pribadi sebagaimana dimaksud dalam Pasal 29 dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau denda paling banyak Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah).".
+	Setiap Orang yang dengan sengaja dan tanpa hak mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik yang berisi ancaman kekerasan atau menakut-nakuti yang ditujukan secara pribadi sebagaimana dimaksud dalam Pasal 29 dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau denda paling banyak Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah).""".
 
 uuite:pasalII2016 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -223,7 +223,7 @@ uuite:ayat1pasal12008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 1 Ayat 1";
     schema:isPartOf uuite:pasal12008;
-    schema:text "Dalam Undang-Undang ini yang dimaksud dengan:
+    schema:text """Dalam Undang-Undang ini yang dimaksud dengan:
 		1. Informasi Elektronik adalah satu atau sekumpulan data elektronik, termasuk tetapi tidak terbatas pada tulisan, suara, gambar, peta, rancangan, foto, electronic data interchange (EDI), surat elektronik (electronic mail), telegram, teleks, telecopy atau sejenisnya, huruf, tanda, angka, Kode Akses, simbol, atau perforasi yang telah diolah yang memiliki arti atau dapat dipahami oleh orang yang mampu memahaminya.
 		2. Transaksi Elektronik adalah perbuatan hukum yang dilakukan dengan menggunakan Komputer, jaringan Komputer, dan/atau media elektronik lainnya.
 		3. Teknologi Informasi adalah suatu teknik untuk mengumpulkan, menyiapkan, menyimpan, memproses, mengumumkan, menganalisis, dan/atau menyebarkan informasi.
@@ -246,7 +246,7 @@ uuite:ayat1pasal12008 a schema:Legislation;
 		20. Nama Domain adalah alamat internet penyelenggara negara, Orang, Badan Usaha, dan/atau masyarakat, yang dapat digunakan dalam berkomunikasi melalui internet, yang berupa kode atau susunan karakter yang bersifat unik untuk menunjukkan lokasi tertentu dalam internet.
 		21. Orang adalah orang perseorangan, baik warga negara Indonesia, warga negara asing, maupun badan hukum.
 		22. Badan Usaha adalah perusahaan perseorangan atau perusahaan persekutuan, baik yang berbadan hukum maupun yang tidak berbadan hukum.
-		23. Pemerintah adalah Menteri atau pejabat lainnya yang ditunjuk oleh Presiden.".
+		23. Pemerintah adalah Menteri atau pejabat lainnya yang ditunjuk oleh Presiden.""".
 
 uuite:pasal22008 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -285,12 +285,12 @@ uuite:ayat1pasal42008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 4 Ayat 1";
     schema:isPartOf uuite:pasal42008;
-    schema:text "Pemanfaatan Teknologi Informasi dan Transaksi Elektronik dilaksanakan dengan tujuan untuk:
+    schema:text """Pemanfaatan Teknologi Informasi dan Transaksi Elektronik dilaksanakan dengan tujuan untuk:
 		a. mencerdaskan kehidupan bangsa sebagai bagian dari masyarakat informasi dunia;
 		b. mengembangkan perdagangan dan perekonomian nasional dalam rangka meningkatkan kesejahteraan masyarakat;
 		c. meningkatkan efektivitas dan efisiensi pelayanan publik;
 		d. membuka kesempatan seluas-luasnya kepada setiap Orang untuk memajukan pemikiran dan kemampuan di bidang penggunaan dan pemanfaatan Teknologi Informasi seoptimal mungkin dan bertanggung jawab; dan
-		e. memberikan rasa aman, keadilan, dan kepastian hukum bagi pengguna dan penyelenggara Teknologi Informasi.".
+		e. memberikan rasa aman, keadilan, dan kepastian hukum bagi pengguna dan penyelenggara Teknologi Informasi.""".
 
 uuite:pasal52008 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -324,9 +324,9 @@ uuite:ayat4pasal52008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 5 Ayat 4";
     schema:isPartOf uuite:pasal52008;
-    schema:text "4. Ketentuan mengenai Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud pada ayat (1) tidak berlaku untuk:
+    schema:text """4. Ketentuan mengenai Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud pada ayat (1) tidak berlaku untuk:
 		a. surat yang menurut Undang-Undang harus dibuat dalam bentuk tertulis; dan
-		b. surat beserta dokumennya yang menurut Undang-Undang harus dibuat dalam bentuk akta notaril atau akta yang dibuat oleh pejabat pembuat akta.".
+		b. surat beserta dokumennya yang menurut Undang-Undang harus dibuat dalam bentuk akta notaril atau akta yang dibuat oleh pejabat pembuat akta.""".
 
 uuite:pasal62008 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -386,9 +386,9 @@ uuite:ayat4pasal82008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 8 Ayat 4";
     schema:isPartOf uuite:pasal82008;
-    schema:text "4. Dalam hal terdapat dua atau lebih sistem informasi yang digunakan dalam pengiriman atau penerimaan Informasi Elektronik dan/atau Dokumen Elektronik, maka:
+    schema:text """4. Dalam hal terdapat dua atau lebih sistem informasi yang digunakan dalam pengiriman atau penerimaan Informasi Elektronik dan/atau Dokumen Elektronik, maka:
 		a. waktu pengiriman adalah ketika Informasi Elektronik dan/atau Dokumen Elektronik memasuki sistem informasi pertama yang berada di luar kendali Pengirim;
-		b. waktu penerimaan adalah ketika Informasi Elektronik dan/atau Dokumen Elektronik memasuki sistem informasi terakhir yang berada di bawah kendali Penerima.".
+		b. waktu penerimaan adalah ketika Informasi Elektronik dan/atau Dokumen Elektronik memasuki sistem informasi terakhir yang berada di bawah kendali Penerima.""".
 
 uuite:pasal92008 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -434,13 +434,13 @@ uuite:ayat1pasal112008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 11 Ayat 1";
     schema:isPartOf uuite:pasal112008;
-    schema:text "1. Tanda Tangan Elektronik memiliki kekuatan hukum dan akibat hukum yang sah selama memenuhi persyaratan sebagai berikut:
+    schema:text """1. Tanda Tangan Elektronik memiliki kekuatan hukum dan akibat hukum yang sah selama memenuhi persyaratan sebagai berikut:
     a. data pembuatan Tanda Tangan Elektronik terkait hanya kepada Penanda Tangan;
     b. data pembuatan Tanda Tangan Elektronik pada saat proses penandatanganan elektronik hanya berada dalam kuasa Penanda Tangan;
     c. segala perubahan terhadap Tanda Tangan Elektronik yang terjadi setelah waktu penandatanganan dapat diketahui;
     d. segala perubahan terhadap Informasi Elektronik yang terkait dengan Tanda Tangan Elektronik tersebut setelah waktu penandatanganan dapat diketahui;
     e.terdapat cara tertentu yang dipakai untuk mengidentifikasi siapa Penandatangannya; dan
-    f. terdapat cara tertentu untuk menunjukkan bahwa Penanda Tangan telah memberikan persetujuan terhadap Informasi Elektronik yang terkait.".
+    f. terdapat cara tertentu untuk menunjukkan bahwa Penanda Tangan telah memberikan persetujuan terhadap Informasi Elektronik yang terkait.""".
 
 uuite:ayat2pasal112008 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -467,13 +467,13 @@ uuite:ayat2pasal122008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 12 Ayat 2";
     schema:isPartOf uuite:pasal122008;
-    schema:text "2. Pengamanan Tanda Tangan Elektronik sebagaimana dimaksud pada ayat (1) sekurang-kurangnya meliputi:
+    schema:text """2. Pengamanan Tanda Tangan Elektronik sebagaimana dimaksud pada ayat (1) sekurang-kurangnya meliputi:
     a. sistem tidak dapat diakses oleh Orang lain yang tidak berhak;
     b. Penanda Tangan harus menerapkan prinsip kehati-hatian untuk menghindari penggunaan secara tidak sah terhadap data terkait pembuatan Tanda Tangan Elektronik;
     c. Penanda Tangan harus tanpa menunda-nunda, menggunakan cara yang dianjurkan oleh penyelenggara Tanda Tangan Elektronik ataupun cara lain yang layak dan sepatutnya harus segera memberitahukan kepada seseorang yang oleh Penanda Tangan dianggap memercayai Tanda Tangan Elektronik atau kepada pihak pendukung layanan Tanda Tangan Elektronik jika:
         1. Penanda Tangan mengetahui bahwa data pembuatan Tanda Tangan Elektronik telah dibobol;
         2. keadaan yang diketahui oleh Penanda Tangan dapat menimbulkan risiko yang berarti, kemungkinan akibat bobolnya data pembuatan Tanda Tangan Elektronik; dan
-    d. dalam hal Sertifikat Elektronik digunakan untuk mendukung Tanda Tangan Elektronik, Penanda Tangan harus memastikan kebenaran dan keutuhan semua informasi yang terkait dengan Sertifikat Elektronik tersebut.".
+    d. dalam hal Sertifikat Elektronik digunakan untuk mendukung Tanda Tangan Elektronik, Penanda Tangan harus memastikan kebenaran dan keutuhan semua informasi yang terkait dengan Sertifikat Elektronik tersebut.""".
 
 uuite:ayat3pasal122008 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -507,9 +507,9 @@ uuite:ayat3pasal132008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 13 Ayat 3";
     schema:isPartOf uuite:pasal132008;
-    schema:text "3. Penyelenggara Sertifikasi Elektronik terdiri atas:
+    schema:text """3. Penyelenggara Sertifikasi Elektronik terdiri atas:
     a. Penyelenggara Sertifikasi Elektronik Indonesia; dan
-    b. Penyelenggara Sertifikasi Elektronik asing.".
+    b. Penyelenggara Sertifikasi Elektronik asing.""".
 
 uuite:ayat4pasal132008 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -543,10 +543,10 @@ uuite:ayat1pasal142008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 14 Ayat 1";
     schema:isPartOf uuite:pasal142008;
-    schema:text "Penyelenggara Sertifikasi Elektronik sebagaimana dimaksud dalam Pasal 13 ayat (1) sampai dengan ayat (5) harus menyediakan informasi yang akurat, jelas, dan pasti kepada setiap pengguna jasa, yang meliputi:
+    schema:text """Penyelenggara Sertifikasi Elektronik sebagaimana dimaksud dalam Pasal 13 ayat (1) sampai dengan ayat (5) harus menyediakan informasi yang akurat, jelas, dan pasti kepada setiap pengguna jasa, yang meliputi:
     a. metode yang digunakan untuk mengidentifikasi Penanda Tangan;
     b. hal yang dapat digunakan untuk mengetahui data diri pembuat Tanda Tangan Elektronik; dan
-    c. hal yang dapat digunakan untuk menunjukkan keberlakuan dan keamanan Tanda Tangan Elektronik.".
+    c. hal yang dapat digunakan untuk menunjukkan keberlakuan dan keamanan Tanda Tangan Elektronik.""".
 
 uuite:pasal152008 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -586,12 +586,12 @@ uuite:ayat1pasal162008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 16 Ayat 1";
     schema:isPartOf uuite:pasal162008;
-    schema:text "1. Sepanjang tidak ditentukan lain oleh undang-undang tersendiri, setiap Penyelenggara Sistem Elektronik wajib mengoperasikan Sistem Elektronik yang memenuhi persyaratan minimum sebagai berikut:
+    schema:text """1. Sepanjang tidak ditentukan lain oleh undang-undang tersendiri, setiap Penyelenggara Sistem Elektronik wajib mengoperasikan Sistem Elektronik yang memenuhi persyaratan minimum sebagai berikut:
     a. dapat menampilkan kembali Informasi Elektronik dan/atau Dokumen Elektronik secara utuh sesuai dengan masa retensi yang ditetapkan dengan Peraturan Perundang-undangan;
     b. dapat melindungi ketersediaan, keutuhan, keotentikan, kerahasiaan, dan keteraksesan Informasi Elektronik dalam Penyelenggaraan Sistem Elektronik tersebut;
     c. dapat beroperasi sesuai dengan prosedur atau petunjuk dalam Penyelenggaraan Sistem Elektronik tersebut;
     d. dilengkapi dengan prosedur atau petunjuk yang diumumkan dengan bahasa, informasi, atau simbol yang dapat dipahami oleh pihak yang bersangkutan dengan Penyelenggaraan Sistem Elektronik tersebut;
-    e. memiliki mekanisme yang berkelanjutan untuk menjaga kebaruan, kejelasan, dan kebertanggungjawaban prosedur atau petunjuk.".
+    e. memiliki mekanisme yang berkelanjutan untuk menjaga kebaruan, kejelasan, dan kebertanggungjawaban prosedur atau petunjuk.""".
 
 uuite:ayat2pasal162008 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -719,10 +719,10 @@ uuite:ayat2pasal212008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 21 Ayat 2";
     schema:isPartOf uuite:pasal212008;
-    schema:text "2. Pihak yang bertanggung jawab atas segala akibat hukum dalam pelaksanaan Transaksi Elektronik sebagaimana dimaksud pada ayat (1) diatur sebagai berikut:
+    schema:text """2. Pihak yang bertanggung jawab atas segala akibat hukum dalam pelaksanaan Transaksi Elektronik sebagaimana dimaksud pada ayat (1) diatur sebagai berikut:
     a. jika dilakukan sendiri, segala akibat hukum dalam pelaksanaan Transaksi Elektronik menjadi tanggung jawab para pihak yang bertransaksi;
     b. jika dilakukan melalui pemberian kuasa, segala akibat hukum dalam pelaksanaan Transaksi Elektronik menjadi tanggung jawab pemberi kuasa; atau
-    c. jika dilakukan melalui Agen Elektronik, segala akibat hukum dalam pelaksanaan Transaksi Elektronik menjadi tanggung jawab penyelenggara Agen Elektronik.".
+    c. jika dilakukan melalui Agen Elektronik, segala akibat hukum dalam pelaksanaan Transaksi Elektronik menjadi tanggung jawab penyelenggara Agen Elektronik.""".
 
 uuite:ayat3pasal212008 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -1038,9 +1038,9 @@ uuite:ayat1pasal342008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 34 Ayat 1";
     schema:isPartOf uuite:pasal342008;
-    schema:text "1. Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum memproduksi, menjual, mengadakan untuk digunakan, mengimpor, mendistribusikan, menyediakan, atau memiliki:
+    schema:text """1. Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum memproduksi, menjual, mengadakan untuk digunakan, mengimpor, mendistribusikan, menyediakan, atau memiliki:
     a. perangkat keras atau perangkat lunak Komputer yang dirancang atau secara khusus dikembangkan untuk memfasilitasi perbuatan sebagaimana dimaksud dalam Pasal 27 sampai dengan Pasal 33;
-    b. sandi lewat Komputer, Kode Akses, atau hal yang sejenis dengan itu yang ditujukan agar Sistem Elektronik menjadi dapat diakses dengan tujuan memfasilitasi perbuatan sebagaimana dimaksud dalam Pasal 27 sampai dengan Pasal 33.".
+    b. sandi lewat Komputer, Kode Akses, atau hal yang sejenis dengan itu yang ditujukan agar Sistem Elektronik menjadi dapat diakses dengan tujuan memfasilitasi perbuatan sebagaimana dimaksud dalam Pasal 27 sampai dengan Pasal 33.""".
 
 uuite:ayat2pasal342008 a schema:Legislation;
     schema:legislationLegalForce schema:InForce;
@@ -1255,7 +1255,7 @@ uuite:ayat5pasal432008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 43 Ayat 5";
     schema:isPartOf uuite:pasal432008;
-    schema:text "5. Penyidik Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (1) berwenang:
+    schema:text """5. Penyidik Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (1) berwenang:
 		a. menerima laporan atau pengaduan dari seseorang tentang adanya tindak pidana berdasarkan ketentuan Undang-Undang ini;
 		b. memanggil setiap Orang atau pihak lainnya untuk didengar dan/atau diperiksa sebagai tersangka atau saksi sehubungan dengan adanya dugaan tindak pidana di bidang terkait dengan ketentuan Undang-Undang ini;
 		c. melakukan pemeriksaan atas kebenaran laporan atau keterangan berkenaan dengan tindak pidana berdasarkan ketentuan Undang-Undang ini;
@@ -1264,7 +1264,7 @@ uuite:ayat5pasal432008 a schema:Legislation;
 		f. melakukan penggeledahan terhadap tempat tertentu yang diduga digunakan sebagai tempat untuk melakukan tindak pidana berdasarkan ketentuan Undang-Undang ini;
 		g. melakukan penyegelan dan penyitaan terhadap alat dan atau sarana kegiatan Teknologi Informasi yang diduga digunakan secara menyimpang dari ketentuan Peraturan Perundang-undangan;
 		h. meminta bantuan ahli yang diperlukan dalam penyidikan terhadap tindak pidana berdasarkan Undang-Undang ini; dan/atau
-		i. mengadakan penghentian penyidikan tindak pidana berdasarkan Undang-Undang ini sesuai dengan ketentuan hukum acara pidana yang berlaku.".
+		i. mengadakan penghentian penyidikan tindak pidana berdasarkan Undang-Undang ini sesuai dengan ketentuan hukum acara pidana yang berlaku.""".
 
 uuite:ayat6pasal432008 a schema:Legislation;
     schema:legislationLegalForce schema:NotInForce;
@@ -1298,9 +1298,9 @@ uuite:ayat1pasal442008 a schema:Legislation;
     schema:legislationType "Ayat";
     schema:legislationIdentifier "UU No 11 Tahun 2008 Pasal 44 Ayat 1";
     schema:isPartOf uuite:pasal442008;
-    schema:text "Alat bukti penyidikan, penuntutan dan pemeriksaan di sidang pengadilan menurut ketentuan Undang-Undang ini adalah sebagai berikut:
+    schema:text """Alat bukti penyidikan, penuntutan dan pemeriksaan di sidang pengadilan menurut ketentuan Undang-Undang ini adalah sebagai berikut:
 		a. alat bukti sebagaimana dimaksud dalam ketentuan Perundang-undangan; dan
-		b. alat bukti lain berupa Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud dalam Pasal 1 angka 1 dan angka 4 serta Pasal 5 ayat (1), ayat (2), dan ayat (3).".
+		b. alat bukti lain berupa Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud dalam Pasal 1 angka 1 dan angka 4 serta Pasal 5 ayat (1), ayat (2), dan ayat (3).""".
 
 uuite:pasal452008 a schema:Legislation;
     schema:legislationLegalForce schema:NotInForce;

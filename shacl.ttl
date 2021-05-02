@@ -1,0 +1,69 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix uuite: <http://linked-data-uu-ite.netlify.app/shacl.ttl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+uuite:PersonShape a sh:NodeShape;
+    sh:targetClass schema:Person;
+    sh:property [
+        sh:path schema:name;
+        sh:datatype xsd:string;
+        sh:name "person name";
+        sh:minCount 1;
+        sh:maxCount 1;
+    ].
+
+uuite:LegislationShape a sh:NodeShape;
+    sh:targetClass schema:Legislation;
+    sh:property [
+        sh:name "legislation legal force status";
+        sh:path schema:legislationLegalForce;
+        sh:in ( schema:NotInForce schema:PartiallyInForce schema:InForce );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "legislation date";
+        sh:path schema:legislationDate;
+        sh:datatype schema:Date;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "legislation passed by";
+        sh:path schema:legislationPassedBy;
+        sh:node uuite:PersonShape;
+    ];
+    sh:property [
+        sh:name "legislation type";
+        sh:path schema:legislationType;
+        sh:datatype xsd:string;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "legislation change";
+        sh:path schema:legislationChanges;
+        sh:node uuite:LegislationShape;
+    ];
+    sh:property [
+        sh:name "legislation identifier";
+        sh:path schema:legislationIdentifier;
+        sh:datatype xsd:string;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "legislation part of";
+        sh:path schema:isPartOf;
+        sh:node uuite:LegislationShape;
+    ];
+    sh:property [
+        sh:name "legislation text";
+        sh:path schema:text;
+        sh:datatype xsd:string;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "legislation position in list";
+        sh:path schema:position;
+        sh:datatype xsd:integer;
+        sh:maxCount 1;
+    ].
