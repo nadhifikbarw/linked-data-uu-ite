@@ -36,7 +36,7 @@ PREFIX uuite: <http://linked-data-uu-ite.netlify.app/datagraph.ttl#>
 
 SELECT ?id ?text
 WHERE {
-  ?ayatDiamandemen schema:legislationIdentifier ?id.
-  ?ayatDiamandemen schema:text ?text.
-  ?ayatDiamandemen schema:isPartOf uuite:pasal432008;
+  ?pasal schema:legislationIdentifier ?id.
+  ?pasal schema:text ?text.
+  ?pasal schema:isPartOf uuite:pasal432008;
 }
